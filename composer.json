@@ -1,0 +1,13 @@
+{
+    "name": "fangx/hyperf-enum",
+    "description": "php enum generator for hyperf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nfangxu",
+            "email": "nfangxu@gmail.com"
+        }
+    ],
+    "require": {}
+}
